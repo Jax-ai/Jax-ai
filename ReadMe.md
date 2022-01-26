@@ -1,8 +1,6 @@
-<h2> Hi There, I'm Jacques </h2>
+<h1> Hi There, I'm Jacques </h1>
 
-# Languages & Technologies
-
-### Front-End
+## Front-End
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
@@ -13,7 +11,7 @@
 
 
 
-### Back-End
+## Back-End
 
 ![LINUX](https://img.shields.io/badge/-Linux-000?logo=linux)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
@@ -22,7 +20,7 @@
 
 
 
-### Technologies
+## Technologies
 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
