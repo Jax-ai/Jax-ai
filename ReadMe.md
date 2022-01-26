@@ -14,8 +14,16 @@
 
 
 ### Back-End
-![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP) </br>
 
+![LINUX](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-&logoColor=white
+
+
+### Technologies
+
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
