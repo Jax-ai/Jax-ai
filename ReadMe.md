@@ -1,5 +1,12 @@
 <h1> Hi There, I'm Jacques </h1>
 
+Web developer from South Africa.
+Currently working on the Car Cloud Project: Design and develop all the Sites, Apps and Back-End.
+Check out my website for Full Portfolio 
+
+Crypto enthusiast: 
+#Bitcoin #Ethereum
+
 ## Front-End
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
