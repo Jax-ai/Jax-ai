@@ -1,6 +1,4 @@
 <h2> Hi There, I'm Jacques </h2>
----
-
 
 ### Languages
 
