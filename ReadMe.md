@@ -35,17 +35,6 @@ Crypto enthusiast:
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
-
-## Goals
-
-
-
-</br>
-</br>
-</br>
-
-
----
 ---
 # #100DaysOfCode
 
