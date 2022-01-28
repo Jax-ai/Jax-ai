@@ -31,4 +31,21 @@ Crypto enthusiast:
 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)a
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+
+
+## Goals
+
+
+
+</br>
+</br>
+</br>
+
+# #100DaysOfCode
+
+- [ ] Complete the @freeCodeCamp.org JavaScript Algorithms and Data Structures Certification
+- [ ] Build an Awesome Portfolio
+- [ ] Build a Dashboard for my Clients
+- [ ] Learn React.js
+- [ ] Start with Artificial Intelligence
