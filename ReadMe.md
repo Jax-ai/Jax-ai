@@ -1,4 +1,4 @@
-[![160744959694494596](https://carbon.now.sh/?bg=rgba%2837%2C37%2C38%2C1%29&t=material&wt=none&l=auto&width=990&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Fira+Code&fs=14px&lh=152%25&si=false&es=2x&wm=false&code=function%2520helloWorld%28%29%2520%257B%250A%2520%2520%250A%2520%2520%252F%252FWelcome%250A%2520%2520console.log%28%2522Welcome%2520to%2520my%2520Page%2520%253AD%2522%29%253B%250A%2520%2520%250A%2520%2520%252F%252FCurrent%2520Progress%250A%2520%2520let%2520currentProject%2520%253D%2520%2522Car%2520Cloud%2520Cover%2522%253B%250A%2520%2520let%2520currentGoal%2520%253D%2520%2522%2523100DaysOfCode%2522%253B%2520%2520%250A%2520%2520console.log%28%2522My%2520Progress%253A%2522%2520%252B%2520currentProject%2520%252B%2520currentGoal%29%253B%250A%2520%2520%250A%257D)](https://github.com/jax-ai)
+[![160744959694494596](https://github.com/Jax-ai/Jax-ai/blob/main/img/cover.png?raw=true)](https://github.com/jax-ai)
 
 <h1> Hi There, I'm Jacques </h1>
 
