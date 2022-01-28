@@ -42,6 +42,9 @@ Crypto enthusiast:
 </br>
 </br>
 
+
+---
+---
 # #100DaysOfCode
 
 - [ ] Complete the @freeCodeCamp.org JavaScript Algorithms and Data Structures Certification
